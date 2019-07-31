@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/daruis1/repos/mo7sen2bo2lnor/devel -DCMAKE_INSTALL_PREFIX=/home/daruis1/repos/mo7sen2bo2lnor/install -G Unix Makefiles
